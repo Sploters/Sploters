@@ -30,3 +30,5 @@ Here are some ideas to get you started:
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sploters&layout=compact&theme=midnight-purple&hide=&langs_count=8"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=sploters&theme=midnight-purple&show_icons=true&include_all_commits"/>
 </div>
+
+![Snake animation](https://github.com/sploters/sploters/blob/output/github-contribution-grid-snake.svg)
