@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&weight=900&size=24&duration=2000&pause=4000&color=DDDDDD&vCenter=true&width=210&height=24&lines=Hi+there%2C+I'm+Sploters)](https://git.io/typing-svg) <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" height="30">
 
-![Banner1](https://user-images.githubusercontent.com/41197858/223089099-e913e5bc-2852-4933-9adf-501e109bfe77.gif)
+<img src="https://user-images.githubusercontent.com/41197858/223389484-70f4962e-136d-4e23-8c2d-80f5beeb4c02.gif" width="250" height="250"> <img src="https://user-images.githubusercontent.com/41197858/223089099-e913e5bc-2852-4933-9adf-501e109bfe77.gif" height="250">
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro&weight=900&size=24&duration=1500&pause=4000&color=DDDDDD&vCenter=true&repeat=false&width=100&height=24&lines=Socials)](https://git.io/typing-svg)
 
